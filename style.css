@@ -38,3 +38,7 @@ ul li {
 p, li {
    color: black;
 }
+
+.social-icon {
+   width: 100px;
+}
